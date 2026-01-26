@@ -1,0 +1,6 @@
+openai
+openai-agents
+arxiv
+python-dotenv
+pydantic
+sib-api-v3-sdk
