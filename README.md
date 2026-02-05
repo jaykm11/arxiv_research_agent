@@ -12,7 +12,6 @@ Quick start
    pip install -r requirements.txt
 3) Set environment variables in .env:
    OPENAI_API_KEY=your_key_here
-   # or: OPEN_API_KEY=your_key_here
    BREVO_API_KEY=your_key_here
 4) Run:
    python deep_research_jm.py
